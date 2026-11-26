@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+title: "Week 1 Lab: REST API client with JSON parsing and a data class (OpenWeatherMap)"
+abstract: "Python lab that calls the OpenWeatherMap REST API, parses the JSON response into a WeatherReport class and prints a formatted summary, reading the API key from a .env file. ITI Athar initiative, Week 1."
+authors:
+  - family-names: "El-Shoafy"
+    given-names: "Noha Abd El-Kader"
+    affiliation: "Faculty of Computers and Artificial Intelligence, Matrouh University, Egypt"
+type: software
+version: "1.0"
+date-released: "2026-11-13"
+license: MIT
+repository-code: "https://github.com/athar-nsh/athar-week01-python-lab"
+keywords:
+  - python
+  - rest-api
+  - json
+  - iti-athar
